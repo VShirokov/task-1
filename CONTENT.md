@@ -357,7 +357,7 @@
 - subscribtion__advantages (list)
 - subscribtion__advantage (list__item list__item_space-b_s)
 - subscribtion__footer (card__footer_space-a_xl list)
-- subscribtion__control (list__item_space-b_s)
+- subscribtion__control (list__item_indent-b_s)
 
 **Элементы без примиксованных блоков паттернов**
 - subscribtion__title (заголовок блока)
