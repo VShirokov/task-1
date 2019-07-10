@@ -222,6 +222,7 @@
 **Вложенные контентные блоки**
 - text text_view_primary text_size_l, text_size_xxl (для заголовка формы)
 - button
+- input input_size_l
 
 
 ### Смысловой блок: warning
