@@ -249,7 +249,7 @@
 **Вложенные контентные блоки**
 - text text_view_primary text_size_m
 - text text_view_primary text_size_s
-- image
+- image 
 
 
 ### Смысловой блок: history
@@ -307,7 +307,7 @@
 ### Смысловой блок: collect
 **Примиксованные блоки паттернов**
 - collect (card_view_default card_border_all theme theme_color_project-inverse)
-- collect__image (card__content)
+- collect__image (card__content theme_color_project-default)
 - collect__footer (card__footer card__footer_space-a_l)
 
 **Элементы без примиксованных блоков паттернов**
