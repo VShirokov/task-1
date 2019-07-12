@@ -227,7 +227,7 @@
 
 ### Смысловой блок: warning
 **Примиксованные блоки паттернов**
-- warning (informer_view_default informer_border_all)
+- warning (informer_view_default informer_border_all theme_color_project-warning)
 - warning__content (informer__content_distribute_center informer__content_space-a_xxl)
 - warning__button-wrapper (informer__action_distribute_center informer__action_space-a_xl)
 
