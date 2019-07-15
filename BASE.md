@@ -530,7 +530,7 @@ size            | `xxs` `xs` `s` `m` `l`          | Размер логотип�
 Изображения с темой `project-default` имеют заглушку черного цвета.
 [Заглушка](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/images/image-placeholder-primary.svg)
 
-Изображения с темами `project-default` и `project-brand` имеют заглушку белого цвета.
+Изображения с темами `project-inverse` и `project-brand` имеют заглушку белого цвета.
 [Заглушка](https://github.com/yndx-shri-reviewer/task-1/blob/master/assets/images/image-placeholder-inverse.svg)(инверсия)
 
 Заглушка, цвета фона и границы задаются темой или стилями контентного блока.
