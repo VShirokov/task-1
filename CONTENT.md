@@ -245,7 +245,7 @@
 - product (card_view_default card_border_all)
 - product__content (card__content card__content_space-a_m)
 - product__footer (card__footer card__footer_space-a_m)
-- product__image (theme_color_project-inverse / theme_color_project-default в зависимости от темы блока)
+- product__image (theme_color_project-inverse или theme_color_project-default)
 
 **Вложенные контентные блоки**
 - text text_view_primary text_size_m
