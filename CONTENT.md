@@ -235,7 +235,7 @@
 - warning__button-wrapper (informer__action_distribute_center informer__action_space-a_xl)
 
 **Вложенные контентные блоки**
-- text text_view_primary text_size_xl
+- text text_view_primary text_size_xl text_align_center
 - placeholder placeholder_view_primary placeholder_size_m
 - button button_size_l
 
